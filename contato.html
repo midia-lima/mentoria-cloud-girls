@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -25,30 +25,38 @@
 
     <main>
         <div class="formulario">
-            <form>
-                <label for="nmesobrenome">Nome e Sobrenome</label>
-                <input id="nmesobrenome" type="text">
+            <p>Preencha nosso Formulário</p>
+            <form>                
+                <fieldset>
+                    <label for="nmesobrenome">Nome e Sobrenome</label>
+                    <input type="text" id="nmesobrenome" placeholder="Digite o seu nome e sobrenome:" required>
 
-                <label for="email">E-mail</label>
-                <input id="email" type="email">
+                    <label for="email">E-mail</label>
+                    <input type="email" id="email" placeholder="Digite o seu e-mail:" required>
 
-                <label for="tel">Telefone</label>
-                <input id="tel" type="tel">
+                    <label for="tel">Telefone</label>
+                    <input type="tel" maxlength="11" id="tel" placeholder="Digite o seu telefone:" required>
 
-                <button class="btn">Enviar</button>
+                    <label for="msg">Mensagem</label>
+                    <textarea name="" id="msg" cols="1" rows="9" placeholder="Escreva aqui a sua mensagem:" required></textarea>
 
+                    <button class="btn">Enviar</button>
+                </fieldset>
             </form>
         </div>
-
     </main>
 
 
     <footer>
         <div>
-            <a href="https://www.facebook.com/cloudgirlsin/" target="_black"><i class="fab fa-facebook redes-sociais"></i></a>
-            <a href="https://www.instagram.com/cloudgirlsin/" target="_black"><i class="fab fa-instagram redes-sociais"></i></a>
-            <a href="https://www.linkedin.com/company/cloudgirlsin/" target="_black"><i class="fab fa-linkedin-in redes-sociais"></i></a>
-            <a href="https://www.meetup.com/pt-BR/cloudgirls/" target="_black"><i class="fab fa-meetup redes-sociais"></i></a>
+            <a href="https://www.facebook.com/cloudgirlsin/" target="_black"><i
+                    class="fab fa-facebook redes-sociais"></i></a>
+            <a href="https://www.instagram.com/cloudgirlsin/" target="_black"><i
+                    class="fab fa-instagram redes-sociais"></i></a>
+            <a href="https://www.linkedin.com/company/cloudgirlsin/" target="_black"><i
+                    class="fab fa-linkedin-in redes-sociais"></i></a>
+            <a href="https://www.meetup.com/pt-BR/cloudgirls/" target="_black"><i
+                    class="fab fa-meetup redes-sociais"></i></a>
         </div>
         <div>
             <h2 class="final">Copyright &copy; 2020 - www.cloudgirls.com.br</h2>

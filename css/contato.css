@@ -19,8 +19,6 @@ h1 {
     color: #e20084;
 }
 
-
-
 .nav {
     margin: 0 0 0 950px;
 }
@@ -45,16 +43,15 @@ nav a:hover {
 
 /* conteudo principal */
 main {
-    height: 450px;
+    height: 800px;
     width: 940px;
     margin: 0 auto;
-
 }
 
 form {
     width: 700px;
-    height: 400px;
-    margin: 50px auto 0 auto;   
+    height: 650px;
+    margin: 40px auto 0 auto;   
     border: #000 2px solid;   
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);      
@@ -66,28 +63,45 @@ form label {
     font-family: 'DM Mono', monospace;
     text-align: center;
     margin-top: 30px;
-    margin-bottom: 10px;
-   
-
+    margin-bottom: 10px; 
 }
 
-form input {
+form input, textarea {
     display: block;
     align-items: center;
     padding: 10px;
     width: 50%;
     margin: 0 auto 0 auto;   
+    resize: none;
 }
 
 .btn {   
-    position: relative; 
+    display: block;   
+    margin: 40px auto 0 auto;  
     border: none;
     width: 90px;
     height: 40px;
-    background: #8a2be2;
-    margin-top: 30px;
-    margin-left: 310px;
+    background: #8a2be2;      
     border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 1s all;
+   
+}
+.btn:hover {
+    background: #6b6b6b;
+    border: #333 2px solid;
+    transform: scale(1.2);
+    
+
+}
+
+.formulario p {
+    font-family: 'Pacifico', cursive; 
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
 }
 
 /* footer */
@@ -101,12 +115,22 @@ footer {
 .redes-sociais {
     color: #fff;
     font-size: 25px;
-    margin: 50px 5px 0 5px;
+    margin: 50px 5px 0 5px;   
+}
+
+
+i:hover {
+    color: #e20084;
    
 }
+
 h2, a {
     padding: 5px;
     margin: 7px 0 0;
     font-family: 'DM Mono', monospace;
     font-size: 12px;
 }
+
+
+
+
