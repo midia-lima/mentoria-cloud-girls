@@ -131,6 +131,20 @@ h2, a {
     font-size: 12px;
 }
 
+@media screen and (max-width: 480px) {
+    .cabecalho, footer {
+        width: 1024px;
+    }
+
+    h1 {
+        width: auto;
+    }
+
+    nav a {
+        font-size: 10px;
+    }    
+}
+
 
 
 
