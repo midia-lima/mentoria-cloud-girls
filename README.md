@@ -18,7 +18,6 @@ HTML5 e CSS3 Parte 4: Avançando no CSS.<br>
 <p>Para clonar o repósitorio, você deve abrir o <b>terminal</b> ou <b>git bash</b> na pasta que deseja adicionar o projeto. Após isso execute a linha de comando:</p>
 
 ```shell
-cd "diretorio de sua preferencia"
 git clone https://github.com/midia-lima/MentoriaCloudGirls.git
 ```
 <h2>Abrindo os Arquivos</h2>
