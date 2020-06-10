@@ -1,7 +1,7 @@
 <h1>Mentoria Cloud Girls</h1>
 
 <h2>Descrição</h2>
-<p>Esse página foi desenvolvida na mentoria Cloud Girls em parceria com Oracle ONE (Oracle Next Education)</p>
+<p>Esse página foi desenvolvida na mentoria Cloud Girls em parceria com a Oracle ONE (Oracle Next Education)</p>
 
 <h2>Conteúdo</h2>
 HTML5 e CSS3 Parte 1: A Primeira Página da Web;<br>
