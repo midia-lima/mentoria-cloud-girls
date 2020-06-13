@@ -1,6 +1,6 @@
 <h1 align="center">Mentoria Cloud Girls</h1>
 
-<p align="center"><a href="https://www.linkedin.com/in/midia-lima/" img src="https://img.shields.io/badge/Made%20By-Midi%C3%A3%20Lima-blueviolet"></p><br>
+<p align="center"><img src="https://img.shields.io/badge/Made%20By-Midi%C3%A3%20Lima-blueviolet"></a></p><br>
 
 <h2>Descrição</h2>
 <p>Esse página foi desenvolvida na mentoria <i>Cloud Girls</i> em parceria com a <i>Oracle ONE (Oracle Next Education)</i></p>
