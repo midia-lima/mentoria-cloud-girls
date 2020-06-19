@@ -5,7 +5,7 @@
 <h2>Descrição</h2>
 <p>Esse página foi desenvolvida na mentoria <i>Cloud Girls</i> em parceria com a <i>Oracle ONE (Oracle Next Education)</i></p>
 
-<h2>Conteúdo</h2>
+<h2>Conteúdos Aprendidos</h2>
 HTML5 e CSS3 Parte 1: A Primeira Página da Web;<br>
 HTML5 e CSS3 Parte 2: Posicionamento, Listas e Navegação;<br>
 HTML5 e CSS3 Parte 3: Trabalhando com Formulários e Tabelas;<br>
