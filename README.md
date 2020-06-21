@@ -3,7 +3,7 @@
 <p align="center"><img src="https://img.shields.io/badge/Made%20By-Midi%C3%A3%20Lima-blueviolet?link=http://left&link="https://www.linkedin.com/in/midia-lima/right"></p><br>
 
 <h2>:clipboard: Descrição</h2>
-<p>Esse página foi desenvolvida na mentoria <i>Cloud Girls</i> em parceria com a <i>Oracle ONE (Oracle Next Education)</i></p><br>
+<p>Esse página foi desenvolvida na mentoria <i>Cloud Girls</i> em parceria com a <i>Oracle ONE (Oracle Next Education)</i></p>
 
 <h2>:books: Conteúdos Aprendidos</h2>
 HTML5 e CSS3 Parte 1: A Primeira Página da Web;<br>
