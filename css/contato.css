@@ -86,15 +86,13 @@ form input, textarea {
     font-size: 16px;
     font-weight: bold;
     cursor: pointer;
-    transition: 1s all;
-   
+    transition: 1s all;   
 }
+
 .btn:hover {
     background: #6b6b6b;
     border: #333 2px solid;
-    transform: scale(1.2);
-    
-
+    transform: scale(1.2);  
 }
 
 .formulario p {
@@ -118,15 +116,8 @@ footer {
     margin: 50px 5px 0 5px;   
 }
 
-.fab {
-    color: #fff;
-    font-size: 25px;
-}
-
-
 i:hover {
-    color: #e20084;
-   
+    color: #e20084;   
 }
 
 h2, a {
@@ -149,7 +140,3 @@ h2, a {
         font-size: 10px;
     }    
 }
-
-
-
-
