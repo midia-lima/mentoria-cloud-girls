@@ -108,6 +108,10 @@ footer {
     margin: 50px 5px 0 5px;
 }
 
+.fab {
+    color: #fff;
+}
+
 @media screen and (max-width: 480px) {
     .cabecalho, footer {
         width: 1024px;

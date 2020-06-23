@@ -118,6 +118,11 @@ footer {
     margin: 50px 5px 0 5px;   
 }
 
+.fab {
+    color: #fff;
+    font-size: 25px;
+}
+
 
 i:hover {
     color: #e20084;
